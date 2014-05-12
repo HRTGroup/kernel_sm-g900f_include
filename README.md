@@ -1,4 +1,4 @@
-kernel_sm-g900f_-include
+kernel_sm-g900f_include
 ========================
 Kernel Folder:
 
